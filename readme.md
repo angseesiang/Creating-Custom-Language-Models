@@ -8,6 +8,7 @@ Build and experiment with a **small GPT‑style, character‑level Transformer l
 
 ## 🎬 Video Walkthrough
 [![Watch the video](https://img.youtube.com/vi/1zl3zkwRL80/hqdefault.jpg)](https://www.youtube.com/watch?v=1zl3zkwRL80)
+
 *Click the thumbnail to watch the YouTube walkthrough.*
 
 ---
