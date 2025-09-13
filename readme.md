@@ -126,12 +126,3 @@ A: This notebook shows a from‑scratch mini‑model. You can adapt the data pip
 **Q: Where do I change hyperparameters?**  
 A: Near the top of the notebook you’ll find settings like `batch_size`, `block_size`, number of layers/heads, embedding size, dropout, learning rate, and training iterations.
 
----
-
-## 📜 License
-Add your license of choice (e.g., MIT). If you use external datasets (e.g., Project Gutenberg), follow their license/usage terms.
-
----
-
-## 🙏 Acknowledgements
-Thanks to the open‑source ML community and many educational resources that inspire learning‑oriented GPT implementations.
